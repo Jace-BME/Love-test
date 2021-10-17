@@ -1,0 +1,9 @@
+body{
+    background-color:pink;
+}
+/* 클래스 앞에는 .을 찍는다, 이미지 파일을 조작할 수 있다. */
+.joker {
+    width: 300px;
+    height: 180px;
+    margin-bottom: 30px;
+}
